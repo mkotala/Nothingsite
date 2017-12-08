@@ -1,11 +1,21 @@
-.container {
-  
+html, body {
+  background-color: black;
+  text-align: center;
+}
+
+body {
+  color: white;
+  font-family: sans-serif;
+}
+
+#contents, #history, #media {
+  margin-top: 48px;
 }
 
 h1 {
-
+  font-style: italic;
 }
 
-p {
-
+.smaller {
+  font-size: 0.8em
 }
